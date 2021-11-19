@@ -2,18 +2,18 @@
 
 <section class="section-sm">
   <div class="container">
-    <div class="row justify-content-center">
+    <div class="d-flex flex-column justify-content-center">
 
       {{ with .Params.image }}
-      <div class="col-lg-10 mb-5">
+      <div class="mb-5 col-lg-8 mx-auto">
         {{ partial "image.html" (dict "Src" . "Class" "img-fluid rounded" "Alt" "about image") }}
       </div>
       {{ end }}
 
-      <div class="col-lg-8 text-center">
+      <div class="mx-auto col-lg-8 text-center">
         {{ if .Params.caption.enable }}
         {{ with .Params.caption }}
-        <h2 class="text-dark font-weight-700">{{.title | markdownify}}</h2>
+        <h2 class="text-dark font-weight-700 text-left">{{.title | markdownify}}</h2>
         {{ end }}
         {{ end }}
 
@@ -29,7 +29,7 @@
         {{ end }}
         {{ end }}
 
-        <div class="content mt-3">
+        <div class="content mt-3 text-left">
           {{.Content}}
         </div>
       </div>

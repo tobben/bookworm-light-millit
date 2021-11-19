@@ -9,7 +9,9 @@
   {{ partial "page-header.html" . }}
   {{end}}
   {{ block "main" . }}{{ end }}
+  {{if and (not .IsHome) }}
   {{ partialCached "footer.html" . }}
+  {{end}}
   {{ partialCached "script.html" . }}
 </body>
 
