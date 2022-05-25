@@ -130,12 +130,15 @@ share those images.
 
 
 ## Hire Us
-We are available for **Hiring** for your next HUGO project. Please, check our
-[services](https://gethugothemes.com/services/?ref=github)
+Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo. 
+
+If you need to customize the theme or complete website development from scratch, you can hire us.
+**Check Our
+[Services](https://gethugothemes.com/services/?utm_source=bookworm_github&utm_medium=referral&utm_campaign=github_theme_readme)**
 
 <!-- premium themes -->
 ## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![gosaas](https://demo.gethugothemes.com/thumbnails/gosaas.webp)](https://gethugothemes.com/products/gosaas/) | [![gojournal](https://demo.gethugothemes.com/thumbnails/gojournal.webp)](https://gethugothemes.com/products/gojournal/) |
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle/?utm_source=bookworm_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Logbook](https://demo.gethugothemes.com/thumbnails/logbook.webp)](https://gethugothemes.com/products/logbook/) | [![Parsa](https://demo.gethugothemes.com/thumbnails/parsa.webp)](https://gethugothemes.com/products/parsa/) |
 |:---:|:---:|:---:|
-| **Premium Theme Bundle (40+)** | **Gosaas** | **Gojournal** |
+| **Get 50+ Premium Hugo Themes Bundle** | **Logbook** | **Parsa** |
 
